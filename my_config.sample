@@ -1,0 +1,39 @@
+<?php
+/*
+ * --------------------------------------------------------------------
+ * LOAD THE CUSTOM FILE CONFIGURATIONS
+ * --------------------------------------------------------------------
+ *
+ */
+// configure enviroment / set true if it is in live server
+$PRODUCTION = false;
+define('PRODUCTION', $PRODUCTION);
+
+$BASE_URL = (PRODUCTION) ? "http://nazishfraz.co.nf/portfolio_v2" : "http://localhost/nazish/portfolio_v2";
+
+define('BASE_URL', $BASE_URL);
+
+
+
+/**
+ * Configuration for database
+ */
+$HOSTNAME = (PRODUCTION) ? "" : "localhost";
+$USERNAME = (PRODUCTION) ? "" : "root";
+$PASSWORD = (PRODUCTION) ? "" : "root";
+$DATABASE = (PRODUCTION) ? "" : "portfolio_v2";
+$PREFIX   = (PRODUCTION) ? "" : "nf2_";
+
+define('HOSTNAME', $HOSTNAME);
+define('USERNAME', $USERNAME);
+define('PASSWORD', $PASSWORD);
+define('DATABASE', $DATABASE);
+define('PREFIX'  , $PREFIX);
+
+define('MAINTENANCE_MODE', false);
+define('ENCRYPTION_KEY', '');
+
+define('EMAIL_API', '');
+
+
+?>
