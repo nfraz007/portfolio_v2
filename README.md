@@ -1,7 +1,7 @@
 # Portfolio v2
 A dynamic resume website, which show data from database. 
 
-Full Documentation [https://nfraz007.github.io/portfolio_v3/](https://nfraz007.github.io/portfolio_v3/)
+Full Documentation [https://nfraz007.github.io/portfolio_v3/](https://nfraz007.github.io/portfolio_v2/)
 
 
 # Technologies: 
