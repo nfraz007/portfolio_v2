@@ -6,7 +6,7 @@
   <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
   <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1.0, user-scalable=no"/>
   <meta name="description" content="Portfolio/CV/Resume website of Nazish Fraz | nfraz007, student of MAKAUT/WBUT. internships, certificates and projects">
-  <meta name="keywords" content="nazish,fraz,nazish fraz,Nazish,Fraz,Nazish Fraz,nfraz.co.nf, nfraz,nfraz007,NFraz">
+  <meta name="keywords" content="nazish,fraz,nazish fraz,Nazish,Fraz,Nazish Fraz,nfraz.co.in, nfraz,nfraz007,NFraz">
   <meta name="author" content="Nazish Fraz">
 
   <title>Nazish Fraz | nfraz007</title>
